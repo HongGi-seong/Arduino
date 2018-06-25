@@ -69,7 +69,6 @@ void Tone ( int factorPitches, unsigned long factorLength )
 void setup ( void ) 
 {
 	pinMode ( PIN, OUTPUT ) ;
-	Serial.begin ( 9600 ) ;
 }
 
 
