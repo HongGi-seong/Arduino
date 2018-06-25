@@ -4,7 +4,7 @@
   
   GS3_FND_180319: 2자리 FND로 숫자 카운트
   
-  GS4_Melody_180329: buzzer를 제어하여 음악 
+  GS4_Melody_180329: buzzer를 제어하여 음악 재생
   
   
  
