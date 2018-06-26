@@ -8,6 +8,8 @@
   
   GS5_Remote_Controller_180412: IR 센서를 사용하여 리모콘 값 읽기
   
+  GS6_Variable_Resister_180413: 가변저항 값 읽기 ( 아날로그 값  ) 
+  
   
  
  지속적으로 업데이트 중 입니다
