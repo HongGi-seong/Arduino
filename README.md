@@ -6,6 +6,8 @@
   
   GS4_Melody_180329: buzzer를 제어하여 음악 재생
   
+  GS5_Remote_Controller_180412: IR 센서를 사용하여 리모콘 값 읽기
+  
   
  
  지속적으로 업데이트 중 입니다
