@@ -10,7 +10,9 @@
   
   GS6_Variable_Resister_180413: 가변저항 값 읽기 ( 아날로그 값  ) 
   
-  GS8_UltraSonic_180413: 초음파 센서를 이용하여 거리 
+  GS8_UltraSonic_180413: 초음파 센서를 이용하여 거리 측정
+  
+  
   
   
  
